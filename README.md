@@ -2,6 +2,6 @@ Hi, My name is Steven and welcome to my github page! This will be where I will b
 if you know what I am ☺!
 
 `Social Medias`
-Twitter - https://twitter.com/nthlikeyou1
-Discord - https://dsc.gg/nthlikeyou
-Twitch - https://twitch.tv/nthlikeyou
+\br Twitter - https://twitter.com/nthlikeyou1
+\br Discord - https://dsc.gg/nthlikeyou
+\br Twitch - https://twitch.tv/nthlikeyou
