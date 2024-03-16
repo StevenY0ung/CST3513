@@ -1,0 +1,85 @@
+import java.util.Scanner;
+
+public class Geometry {
+    /**
+     * This is the main method that runs the geometry calculator.
+     * It displays a menu to the user, takes input, and calculates the desired geometric values.
+     * 
+     * @param args command-line arguments (not used)
+     */
+    public static void main(String[] args) {
+        // Method implementation
+    }
+
+    /**
+     * Prints out the menu of options for the geometry calculator.
+     */
+    public static void printMenu() {
+        // Method implementation
+    }
+
+    /**
+     * Calculates the area of a circle.
+     * 
+     * @param radius the radius of the circle
+     * @return the area of the circle
+     */
+    public static double circleArea(double radius) {
+        // Method implementation
+    }
+
+    /**
+     * Calculates the area of a rectangle.
+     * 
+     * @param length the length of the rectangle
+     * @param width the width of the rectangle
+     * @return the area of the rectangle
+     */
+    public static double rectangleArea(double length, double width) {
+        // Method implementation
+    }
+
+    /**
+     * Calculates the area of a triangle.
+     * 
+     * @param base the base of the triangle
+     * @param height the height of the triangle
+     * @return the area of the triangle
+     */
+    public static double triangleArea(double base, double height) {
+        // Method implementation
+    }
+
+    /**
+     * Calculates the circumference of a circle.
+     * 
+     * @param radius the radius of the circle
+     * @return the circumference of the circle
+     */
+    public static double circleCircumference(double radius) {
+        // Method implementation
+    }
+
+    /**
+     * Calculates the perimeter of a rectangle.
+     * 
+     * @param length the length of the rectangle
+     * @param width the width of the rectangle
+     * @return the perimeter of the rectangle
+     */
+    public static double rectanglePerimeter(double length, double width) {
+        // Method implementation
+    }
+
+    /**
+     * Calculates the perimeter of a triangle.
+     * 
+     * @param side1 the length of side 1 of the triangle
+     * @param side2 the length of side 2 of the triangle
+     * @param side3 the length of side 3 of the triangle
+     * @return the perimeter of the triangle
+     */
+    public static double trianglePerimeter(double side1, double side2, double side3) {
+        // Method implementation
+    }
+}
